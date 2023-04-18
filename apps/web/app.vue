@@ -1,5 +1,5 @@
 <template>
   <div>
-    <MyTurborepoButton />
+    <p>Hello from Nuxt!</p>
   </div>
 </template>
